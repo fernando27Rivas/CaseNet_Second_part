@@ -101,6 +101,6 @@ venv.bak/
 venv
 .idea
 
-
+data.csv
 # mypy
 .mypy_cache/

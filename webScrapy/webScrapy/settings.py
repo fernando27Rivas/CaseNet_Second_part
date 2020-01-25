@@ -93,9 +93,8 @@ DOWNLOAD_DELAY = 8
 #YOU CAN EDIT THIS VARIABLE WITH THE VALUE THAT YOU WANT TO SEARCH IN THE PAGE
 
 SELECT = "16th Judicial Circuit (Jackson County)"
-SELECT2 = "7th Judicial Circuit (Clay County)"
-Judge= "Styles, Mark A."
-Judge2= "Chamberlain, David P."
+Judge= "Stockdale, Kyndra J."
+
 
 
 
